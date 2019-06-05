@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="MScreenItemCommon" max_length="40" name="x_358273_cm_mscreenitemcommon" type="collection">
+        <element label="AppClass" max_length="40" name="appclass" type="string"/>
+        <element label="CcAddress" max_length="40" name="ccaddress" type="string"/>
+        <element label="ContactDate" max_length="40" name="contactdate" type="string"/>
+        <element label="ContactDetail" max_length="40" name="contactdetail" type="string"/>
+        <element label="ContactSubject" max_length="40" name="contactsubject" type="string"/>
+        <element label="CreateType" max_length="40" name="createtype" type="string"/>
+        <element label="FromAddress" max_length="40" name="fromaddress" type="string"/>
+        <element label="ParentId" max_length="40" name="parentid" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element label="TicketId" max_length="40" name="ticketid" type="string"/>
+        <element label="Title" max_length="40" name="title" type="string"/>
+        <element label="ToAddress" max_length="40" name="toaddress" type="string"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

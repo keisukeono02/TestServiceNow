@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="reqfromdept" label="ReqFromDept" language="en" table="x_358273_cm_mscreenitemzzz">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>reqfromdept</element>
+            <help/>
+            <hint/>
+            <label>ReqFromDept</label>
+            <language>en</language>
+            <name>x_358273_cm_mscreenitemzzz</name>
+            <plural>ReqFromDepts</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-05 09:13:10</sys_created_on>
+            <sys_id>b7828c62db35330078c0d6aa48961969</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>ReqFromDept</sys_name>
+            <sys_package display_value="CustomerManager" source="x_358273_cm">a89762dadb31330078c0d6aa48961974</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CustomerManager">a89762dadb31330078c0d6aa48961974</sys_scope>
+            <sys_update_name>sys_documentation_x_358273_cm_mscreenitemzzz_reqfromdept_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-05 09:13:10</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

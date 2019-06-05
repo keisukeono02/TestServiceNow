@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="x_358273_cm_mscreenitemcommon" label="MScreenItemZzz" max_length="40" name="x_358273_cm_mscreenitemzzz" type="collection">
+        <element label="AddressType" max_length="40" name="addresstype" type="string"/>
+        <element label="Answer" max_length="40" name="answer" type="string"/>
+        <element label="AnswerContent1" max_length="40" name="answercontent1" type="string"/>
+        <element label="AnswerContent2" max_length="40" name="answercontent2" type="string"/>
+        <element label="AnswerContent3" max_length="40" name="answercontent3" type="string"/>
+        <element label="AnswerDate1" max_length="40" name="answerdate1" type="string"/>
+        <element label="AnswerDate2" max_length="40" name="answerdate2" type="string"/>
+        <element label="AnswerDate3" max_length="40" name="answerdate3" type="string"/>
+        <element label="AnswerHopeDate" max_length="40" name="answerhopedate" type="string"/>
+        <element label="AnswerMailSendFlag" max_length="40" name="answermailsendflag" type="string"/>
+        <element label="AnswerReqToDept1" max_length="40" name="answerreqtodept1" type="string"/>
+        <element label="AnswerReqToDept2" max_length="40" name="answerreqtodept2" type="string"/>
+        <element label="AnswerReqToDept3" max_length="40" name="answerreqtodept3" type="string"/>
+        <element label="Comment" max_length="40" name="comment" type="string"/>
+        <element label="Content" max_length="40" name="content" type="string"/>
+        <element label="CorrespondingDueDate1" max_length="40" name="correspondingduedate1" type="string"/>
+        <element label="CorrespondingDueDate2" max_length="40" name="correspondingduedate2" type="string"/>
+        <element label="CorrespondingDueDate3" max_length="40" name="correspondingduedate3" type="string"/>
+        <element label="CorrespondingStatus1" max_length="40" name="correspondingstatus1" type="string"/>
+        <element label="CorrespondingStatus2" max_length="40" name="correspondingstatus2" type="string"/>
+        <element label="CorrespondingStatus3" max_length="40" name="correspondingstatus3" type="string"/>
+        <element label="CustomerNo" max_length="40" name="customerno" type="string"/>
+        <element label="CustomerPostDate" max_length="40" name="customerpostdate" type="string"/>
+        <element label="OrderDate" max_length="40" name="orderdate" type="string"/>
+        <element label="PostContent" max_length="40" name="postcontent" type="string"/>
+        <element label="PostKbn" max_length="40" name="postkbn" type="string"/>
+        <element label="PostSummary" max_length="40" name="postsummary" type="string"/>
+        <element label="ProcessUnnecessaryFlag" max_length="40" name="processunnecessaryflag" type="string"/>
+        <element label="ReqFromDept" max_length="40" name="reqfromdept" type="string"/>
+        <element label="ReqFromSuperiorApprovalFlag" max_length="40" name="reqfromsuperiorapprovalflag" type="string"/>
+        <element label="ReqToSuperiorApprovalFlag" max_length="40" name="reqtosuperiorapprovalflag" type="string"/>
+        <element label="Service" max_length="40" name="service" type="string"/>
+        <element label="ServiceCategory" max_length="40" name="servicecategory" type="string"/>
+        <element label="ServiceDetail" max_length="40" name="servicedetail" type="string"/>
+    </element>
+</database>
