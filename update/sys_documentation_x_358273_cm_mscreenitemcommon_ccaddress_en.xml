@@ -14,9 +14,9 @@
             <sys_id>54f11f56dbb1330078c0d6aa4896190e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>CcAddress</sys_name>
-            <sys_package display_value="CustomerManager" source="x_358273_cm">a89762dadb31330078c0d6aa48961974</sys_package>
+            <sys_package display_value="CTMS" source="x_358273_cm">a89762dadb31330078c0d6aa48961974</sys_package>
             <sys_policy/>
-            <sys_scope display_value="CustomerManager">a89762dadb31330078c0d6aa48961974</sys_scope>
+            <sys_scope display_value="CTMS">a89762dadb31330078c0d6aa48961974</sys_scope>
             <sys_update_name>sys_documentation_x_358273_cm_mscreenitemcommon_ccaddress_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2019-06-05 05:40:45</sys_updated_on>

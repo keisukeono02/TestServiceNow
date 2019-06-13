@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="x_358273_cm_mscreenitemcommon" label="MScreenItemZzz" max_length="40" name="x_358273_cm_mscreenitemzzz" type="collection">
+    <element extends="x_358273_cm_mscreenitemcommon" label="TicketInfoZzz" max_length="40" name="x_358273_cm_mscreenitemzzz" type="collection">
         <element label="AddressType" max_length="40" name="addresstype" type="string"/>
         <element label="Answer" max_length="40" name="answer" type="string"/>
         <element label="AnswerContent1" max_length="40" name="answercontent1" type="string"/>

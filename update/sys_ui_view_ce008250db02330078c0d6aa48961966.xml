@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>sys_popup,foreign_database</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-11 04:50:44</sys_created_on>
+        <sys_id>ce008250db02330078c0d6aa48961966</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Sys_popup,foreign_database</sys_name>
+        <sys_package display_value="CTMS" source="x_358273_cm">a89762dadb31330078c0d6aa48961974</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CTMS">a89762dadb31330078c0d6aa48961974</sys_scope>
+        <sys_update_name>sys_ui_view_ce008250db02330078c0d6aa48961966</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-11 04:50:44</sys_updated_on>
+        <title>Sys_popup,foreign_database</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

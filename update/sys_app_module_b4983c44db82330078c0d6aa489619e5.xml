@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="お客様問い合わせ管理">d475c426db35330078c0d6aa489619e4</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>ESC</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_358273_cm_mscreenitemzzz</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_358273_cm.zzz0110,x_358273_cm.zzz0120,x_358273_cm.zzz0130,x_358273_cm.zzz0140</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>eric.schroeder</sys_created_by>
+        <sys_created_on>2019-06-10 05:00:46</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b4983c44db82330078c0d6aa489619e5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ESC</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="CTMS" source="x_358273_cm">a89762dadb31330078c0d6aa48961974</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CTMS">a89762dadb31330078c0d6aa48961974</sys_scope>
+        <sys_update_name>sys_app_module_b4983c44db82330078c0d6aa489619e5</sys_update_name>
+        <sys_updated_by>eric.schroeder</sys_updated_by>
+        <sys_updated_on>2019-06-10 05:00:46</sys_updated_on>
+        <timeline_page/>
+        <title>ESC</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="MScreenItemCommon" max_length="40" name="x_358273_cm_mscreenitemcommon" type="collection">
+    <element label="TicketInfoCommon" max_length="40" name="x_358273_cm_mscreenitemcommon" type="collection">
         <element label="AppClass" max_length="40" name="appclass" type="string"/>
         <element label="CcAddress" max_length="40" name="ccaddress" type="string"/>
         <element label="ContactDate" max_length="40" name="contactdate" type="string"/>
@@ -8,6 +8,7 @@
         <element label="CreateType" max_length="40" name="createtype" type="string"/>
         <element label="FromAddress" max_length="40" name="fromaddress" type="string"/>
         <element label="ParentId" max_length="40" name="parentid" type="string"/>
+        <element label="Status" max_length="80" name="status" type="workflow"/>
         <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
         <element label="TicketId" max_length="40" name="ticketid" type="string"/>
         <element label="Title" max_length="40" name="title" type="string"/>
