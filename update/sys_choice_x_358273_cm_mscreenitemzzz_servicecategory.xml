@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="servicecategory" table="x_358273_cm_mscreenitemzzz" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>servicecategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>お客さまの声</label>
+            <language>en</language>
+            <name>x_358273_cm_mscreenitemzzz</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-13 06:57:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bd207445dbc2330012075385ca961954</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-13 06:57:12</sys_updated_on>
+            <value>お客さまの声</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>servicecategory</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>お客さま要望／センタ要望</label>
+            <language>en</language>
+            <name>x_358273_cm_mscreenitemzzz</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-13 06:57:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b1207445dbc2330012075385ca961956</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-13 06:57:12</sys_updated_on>
+            <value>お客さま要望／センタ要望</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>servicecategory</element>
+            <name>x_358273_cm_mscreenitemzzz</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-13 06:57:12</sys_created_on>
+            <sys_id>39207445dbc2330012075385ca961955</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>servicecategory</sys_name>
+            <sys_package display_value="CTMS" source="x_358273_cm">a89762dadb31330078c0d6aa48961974</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CTMS">a89762dadb31330078c0d6aa48961974</sys_scope>
+            <sys_update_name>sys_choice_x_358273_cm_mscreenitemzzz_servicecategory</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-13 06:57:12</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="customerpostdate" label="お客様投稿日" language="ja" table="x_358273_cm_mscreenitemzzz">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>customerpostdate</element>
+            <help/>
+            <hint/>
+            <label>お客様投稿日</label>
+            <language>ja</language>
+            <name>x_358273_cm_mscreenitemzzz</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-14 06:28:17</sys_created_on>
+            <sys_id>0023fdd5db02330012075385ca96194f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>お客様投稿日</sys_name>
+            <sys_package display_value="CTMS" source="x_358273_cm">a89762dadb31330078c0d6aa48961974</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CTMS">a89762dadb31330078c0d6aa48961974</sys_scope>
+            <sys_update_name>sys_documentation_x_358273_cm_mscreenitemzzz_customerpostdate_ja</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-14 06:28:17</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

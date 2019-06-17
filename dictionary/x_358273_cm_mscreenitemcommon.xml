@@ -3,7 +3,7 @@
         <element label="AppClass" max_length="40" name="appclass" type="string"/>
         <element label="CcAddress" max_length="40" name="ccaddress" type="string"/>
         <element label="ContactDate" max_length="40" name="contactdate" type="string"/>
-        <element label="ContactDetail" max_length="40" name="contactdetail" type="string"/>
+        <element label="ContactDetail" max_length="3600" name="contactdetail" type="string"/>
         <element label="ContactSubject" max_length="40" name="contactsubject" type="string"/>
         <element label="CreateType" max_length="40" name="createtype" type="string"/>
         <element label="FromAddress" max_length="40" name="fromaddress" type="string"/>

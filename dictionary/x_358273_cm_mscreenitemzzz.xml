@@ -1,19 +1,132 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element extends="x_358273_cm_mscreenitemcommon" label="TicketInfoZzz" max_length="40" name="x_358273_cm_mscreenitemzzz" type="collection">
         <element label="AddressType" max_length="40" name="addresstype" type="string"/>
-        <element label="Answer" max_length="40" name="answer" type="string"/>
-        <element label="AnswerContent1" max_length="40" name="answercontent1" type="string"/>
-        <element label="AnswerContent2" max_length="40" name="answercontent2" type="string"/>
-        <element label="AnswerContent3" max_length="40" name="answercontent3" type="string"/>
-        <element label="AnswerDate1" max_length="40" name="answerdate1" type="string"/>
-        <element label="AnswerDate2" max_length="40" name="answerdate2" type="string"/>
-        <element label="AnswerDate3" max_length="40" name="answerdate3" type="string"/>
-        <element label="AnswerHopeDate" max_length="40" name="answerhopedate" type="string"/>
-        <element label="AnswerMailSendFlag" max_length="40" name="answermailsendflag" type="string"/>
-        <element label="AnswerReqToDept1" max_length="40" name="answerreqtodept1" type="string"/>
-        <element label="AnswerReqToDept2" max_length="40" name="answerreqtodept2" type="string"/>
-        <element label="AnswerReqToDept3" max_length="40" name="answerreqtodept3" type="string"/>
-        <element label="Comment" max_length="40" name="comment" type="string"/>
+        <element label="Answer" max_length="3600" name="answer" type="string"/>
+        <element label="AnswerContent1" max_length="3600" name="answercontent1" type="string"/>
+        <element label="AnswerContent2" max_length="3600" name="answercontent2" type="string"/>
+        <element label="AnswerContent3" max_length="3600" name="answercontent3" type="string"/>
+        <element label="回答日1" max_length="40" name="answerdate1" type="glide_date_time"/>
+        <element label="回答日2" max_length="40" name="answerdate2" type="glide_date_time"/>
+        <element label="回答日3" max_length="40" name="answerdate3" type="glide_date_time"/>
+        <element label="回答希望日" max_length="40" name="answerhopedate" type="glide_date"/>
+        <element choice="1" label="AnswerMailSendFlag" max_length="40" name="answermailsendflag" type="string">
+            <choice>
+                <element inactive_on_update="false" label="不要" sequence="0" value="不要"/>
+                <element inactive_on_update="false" label="必要" sequence="1" value="必要"/>
+            </choice>
+        </element>
+        <element choice="1" label="AnswerReqToDept1" max_length="40" name="answerreqtodept1" type="string">
+            <choice>
+                <element inactive_on_update="false" label="不要" sequence="0" value="不要"/>
+                <element inactive_on_update="false" label="CS部_SOP部門_お客さまの声" sequence="1" value="cs部_sop部門_お客さまの声"/>
+                <element inactive_on_update="false" label="CS部_SOP部門_OCNテクニカル" sequence="2" value="cs部_sop部門_ocnテクニカル"/>
+                <element inactive_on_update="false" label="CS部_SOP部門_SO" sequence="3" value="cs部_sop部門_so"/>
+                <element inactive_on_update="false" label="CS部_SOP部門_Abuse" sequence="4" value="cs部_sop部門_abuse"/>
+                <element inactive_on_update="false" label="CS部_イノベーション部門" sequence="5" value="cs部_イノベーション部門"/>
+                <element inactive_on_update="false" label="NS部_ONS部門_フレッツ系・IPv6・HOTSPOT" sequence="6" value="ns部_ons部門_フレッツ系・ipv6・hotspot"/>
+                <element inactive_on_update="false" label="NS部_ONS部門_モバイルアプリ・モバイル" sequence="7" value="ns部_ons部門_モバイルアプリ・モバイル"/>
+                <element inactive_on_update="false" label="NS部_ONS部門_料金" sequence="8" value="ns部_ons部門_料金"/>
+                <element inactive_on_update="false" label="NS部_販推部門_トップページ" sequence="9" value="ns部_販推部門_トップページ"/>
+                <element inactive_on_update="false" label="NS部_販推部門_マイページ" sequence="10" value="ns部_販推部門_マイページ"/>
+                <element inactive_on_update="false" label="NS部_販推部門_ポイントーク" sequence="11" value="ns部_販推部門_ポイントーク"/>
+                <element inactive_on_update="false" label="NS部_販推部門_メルマガ" sequence="12" value="ns部_販推部門_メルマガ"/>
+                <element inactive_on_update="false" label="NS部_販推部門_プロモーション" sequence="13" value="ns部_販推部門_プロモーション"/>
+                <element inactive_on_update="false" label="NS部_販推部門_モバイル・ツール全般" sequence="14" value="ns部_販推部門_モバイル・ツール全般"/>
+                <element inactive_on_update="false" label="NS部_販推部門_販売・フレッツ光" sequence="15" value="ns部_販推部門_販売・フレッツ光"/>
+                <element inactive_on_update="false" label="NS部_販推部門_販売・OCN光" sequence="16" value="ns部_販推部門_販売・ocn光"/>
+                <element inactive_on_update="false" label="一営_DM部門_506506" sequence="17" value="一営_dm部門_506506"/>
+                <element inactive_on_update="false" label="一営_DM部門_アウトバウンド" sequence="18" value="一営_dm部門_アウトバウンド"/>
+                <element inactive_on_update="false" label="一営_DM部門_第一グループ" sequence="19" value="一営_dm部門_第一グループ"/>
+                <element inactive_on_update="false" label="一営_BS部門_第一サービス担当(フロント)" sequence="20" value="一営_bs部門_第一サービス担当(フロント)"/>
+                <element inactive_on_update="false" label="五営_営推部門_代理店" sequence="21" value="五営_営推部門_代理店"/>
+                <element inactive_on_update="false" label="A&amp;C部_OCNメール・ドリームネット・ウィルスチェック" sequence="22" value="a&amp;c部_ocnメール・ドリームネット・ウィルスチェック"/>
+                <element inactive_on_update="false" label="A&amp;C部_OCN ID" sequence="23" value="a&amp;c部_ocn id"/>
+                <element inactive_on_update="false" label="A&amp;C部_プレサポ・ユーザーサポートプラン" sequence="24" value="a&amp;c部_プレサポ・ユーザーサポートプラン"/>
+                <element inactive_on_update="false" label="A&amp;C部_ひかりTV" sequence="25" value="a&amp;c部_ひかりtv"/>
+                <element inactive_on_update="false" label="A&amp;C部_マイポケ" sequence="26" value="a&amp;c部_マイポケ"/>
+                <element inactive_on_update="false" label="A&amp;C部_kakeibon・マイパスワード" sequence="27" value="a&amp;c部_kakeibon・マイパスワード"/>
+                <element inactive_on_update="false" label="A&amp;C部_ペイオン" sequence="28" value="a&amp;c部_ペイオン"/>
+                <element inactive_on_update="false" label="A&amp;C部_セキュリティソフト・マイセキュア・有害サイトブロック" sequence="29" value="a&amp;c部_セキュリティソフト・マイセキュア・有害サイトブロック"/>
+                <element inactive_on_update="false" label="V&amp;V部_050plus・音声SIM・OCNでんわ" sequence="30" value="v&amp;v部_050plus・音声sim・ocnでんわ"/>
+                <element inactive_on_update="false" label="V&amp;V部_OCNドットフォン・050あんしんナンバー・OCNひかり電話" sequence="31" value="v&amp;v部_ocnドットフォン・050あんしんナンバー・ocnひかり電話"/>
+                <element inactive_on_update="false" label="テスト用エスカレーション先" sequence="32" value="テスト用エスカレーション先"/>
+            </choice>
+        </element>
+        <element choice="1" label="AnswerReqToDept2" max_length="40" name="answerreqtodept2" type="string">
+            <choice>
+                <element inactive_on_update="false" label="不要" sequence="0" value="不要"/>
+                <element inactive_on_update="false" label="CS部_SOP部門_お客さまの声" sequence="1" value="cs部_sop部門_お客さまの声"/>
+                <element inactive_on_update="false" label="CS部_SOP部門_OCNテクニカル" sequence="2" value="cs部_sop部門_ocnテクニカル"/>
+                <element inactive_on_update="false" label="CS部_SOP部門_SO" sequence="3" value="cs部_sop部門_so"/>
+                <element inactive_on_update="false" label="CS部_SOP部門_Abuse" sequence="4" value="cs部_sop部門_abuse"/>
+                <element inactive_on_update="false" label="CS部_イノベーション部門" sequence="5" value="cs部_イノベーション部門"/>
+                <element inactive_on_update="false" label="NS部_ONS部門_フレッツ系・IPv6・HOTSPOT" sequence="6" value="ns部_ons部門_フレッツ系・ipv6・hotspot"/>
+                <element inactive_on_update="false" label="NS部_ONS部門_モバイルアプリ・モバイル" sequence="7" value="ns部_ons部門_モバイルアプリ・モバイル"/>
+                <element inactive_on_update="false" label="NS部_ONS部門_料金" sequence="8" value="ns部_ons部門_料金"/>
+                <element inactive_on_update="false" label="NS部_販推部門_トップページ" sequence="9" value="ns部_販推部門_トップページ"/>
+                <element inactive_on_update="false" label="NS部_販推部門_マイページ" sequence="10" value="ns部_販推部門_マイページ"/>
+                <element inactive_on_update="false" label="NS部_販推部門_ポイントーク" sequence="11" value="ns部_販推部門_ポイントーク"/>
+                <element inactive_on_update="false" label="NS部_販推部門_メルマガ" sequence="12" value="ns部_販推部門_メルマガ"/>
+                <element inactive_on_update="false" label="NS部_販推部門_プロモーション" sequence="13" value="ns部_販推部門_プロモーション"/>
+                <element inactive_on_update="false" label="NS部_販推部門_モバイル・ツール全般" sequence="14" value="ns部_販推部門_モバイル・ツール全般"/>
+                <element inactive_on_update="false" label="NS部_販推部門_販売・フレッツ光" sequence="15" value="ns部_販推部門_販売・フレッツ光"/>
+                <element inactive_on_update="false" label="NS部_販推部門_販売・OCN光" sequence="16" value="ns部_販推部門_販売・ocn光"/>
+                <element inactive_on_update="false" label="一営_DM部門_506506" sequence="17" value="一営_dm部門_506506"/>
+                <element inactive_on_update="false" label="一営_DM部門_アウトバウンド" sequence="18" value="一営_dm部門_アウトバウンド"/>
+                <element inactive_on_update="false" label="一営_DM部門_第一グループ" sequence="19" value="一営_dm部門_第一グループ"/>
+                <element inactive_on_update="false" label="一営_BS部門_第一サービス担当(フロント)" sequence="20" value="一営_bs部門_第一サービス担当(フロント)"/>
+                <element inactive_on_update="false" label="五営_営推部門_代理店" sequence="21" value="五営_営推部門_代理店"/>
+                <element inactive_on_update="false" label="A&amp;C部_OCNメール・ドリームネット・ウィルスチェック" sequence="22" value="a&amp;c部_ocnメール・ドリームネット・ウィルスチェック"/>
+                <element inactive_on_update="false" label="A&amp;C部_OCN ID" sequence="23" value="a&amp;c部_ocn id"/>
+                <element inactive_on_update="false" label="A&amp;C部_プレサポ・ユーザーサポートプラン" sequence="24" value="a&amp;c部_プレサポ・ユーザーサポートプラン"/>
+                <element inactive_on_update="false" label="A&amp;C部_ひかりTV" sequence="25" value="a&amp;c部_ひかりtv"/>
+                <element inactive_on_update="false" label="A&amp;C部_マイポケ" sequence="26" value="a&amp;c部_マイポケ"/>
+                <element inactive_on_update="false" label="A&amp;C部_kakeibon・マイパスワード" sequence="27" value="a&amp;c部_kakeibon・マイパスワード"/>
+                <element inactive_on_update="false" label="A&amp;C部_ペイオン" sequence="28" value="a&amp;c部_ペイオン"/>
+                <element inactive_on_update="false" label="A&amp;C部_セキュリティソフト・マイセキュア・有害サイトブロック" sequence="29" value="a&amp;c部_セキュリティソフト・マイセキュア・有害サイトブロック"/>
+                <element inactive_on_update="false" label="V&amp;V部_050plus・音声SIM・OCNでんわ" sequence="30" value="v&amp;v部_050plus・音声sim・ocnでんわ"/>
+                <element inactive_on_update="false" label="V&amp;V部_OCNドットフォン・050あんしんナンバー・OCNひかり電話" sequence="31" value="v&amp;v部_ocnドットフォン・050あんしんナンバー・ocnひかり電話"/>
+                <element inactive_on_update="false" label="テスト用エスカレーション先" sequence="32" value="テスト用エスカレーション先"/>
+            </choice>
+        </element>
+        <element choice="1" label="AnswerReqToDept3" max_length="40" name="answerreqtodept3" type="string">
+            <choice>
+                <element inactive_on_update="false" label="不要" sequence="0" value="不要"/>
+                <element inactive_on_update="false" label="CS部_SOP部門_お客さまの声" sequence="1" value="cs部_sop部門_お客さまの声"/>
+                <element inactive_on_update="false" label="CS部_SOP部門_OCNテクニカル" sequence="2" value="cs部_sop部門_ocnテクニカル"/>
+                <element inactive_on_update="false" label="CS部_SOP部門_SO" sequence="3" value="cs部_sop部門_so"/>
+                <element inactive_on_update="false" label="CS部_SOP部門_Abuse" sequence="4" value="cs部_sop部門_abuse"/>
+                <element inactive_on_update="false" label="CS部_イノベーション部門" sequence="5" value="cs部_イノベーション部門"/>
+                <element inactive_on_update="false" label="NS部_ONS部門_フレッツ系・IPv6・HOTSPOT" sequence="6" value="ns部_ons部門_フレッツ系・ipv6・hotspot"/>
+                <element inactive_on_update="false" label="NS部_ONS部門_モバイルアプリ・モバイル" sequence="7" value="ns部_ons部門_モバイルアプリ・モバイル"/>
+                <element inactive_on_update="false" label="NS部_ONS部門_料金" sequence="8" value="ns部_ons部門_料金"/>
+                <element inactive_on_update="false" label="NS部_販推部門_トップページ" sequence="9" value="ns部_販推部門_トップページ"/>
+                <element inactive_on_update="false" label="NS部_販推部門_マイページ" sequence="10" value="ns部_販推部門_マイページ"/>
+                <element inactive_on_update="false" label="NS部_販推部門_ポイントーク" sequence="11" value="ns部_販推部門_ポイントーク"/>
+                <element inactive_on_update="false" label="NS部_販推部門_メルマガ" sequence="12" value="ns部_販推部門_メルマガ"/>
+                <element inactive_on_update="false" label="NS部_販推部門_プロモーション" sequence="13" value="ns部_販推部門_プロモーション"/>
+                <element inactive_on_update="false" label="NS部_販推部門_モバイル・ツール全般" sequence="14" value="ns部_販推部門_モバイル・ツール全般"/>
+                <element inactive_on_update="false" label="NS部_販推部門_販売・フレッツ光" sequence="15" value="ns部_販推部門_販売・フレッツ光"/>
+                <element inactive_on_update="false" label="NS部_販推部門_販売・OCN光" sequence="16" value="ns部_販推部門_販売・ocn光"/>
+                <element inactive_on_update="false" label="一営_DM部門_506506" sequence="17" value="一営_dm部門_506506"/>
+                <element inactive_on_update="false" label="一営_DM部門_アウトバウンド" sequence="18" value="一営_dm部門_アウトバウンド"/>
+                <element inactive_on_update="false" label="一営_DM部門_第一グループ" sequence="19" value="一営_dm部門_第一グループ"/>
+                <element inactive_on_update="false" label="一営_BS部門_第一サービス担当(フロント)" sequence="20" value="一営_bs部門_第一サービス担当(フロント)"/>
+                <element inactive_on_update="false" label="五営_営推部門_代理店" sequence="21" value="五営_営推部門_代理店"/>
+                <element inactive_on_update="false" label="A&amp;C部_OCNメール・ドリームネット・ウィルスチェック" sequence="22" value="a&amp;c部_ocnメール・ドリームネット・ウィルスチェック"/>
+                <element inactive_on_update="false" label="A&amp;C部_OCN ID" sequence="23" value="a&amp;c部_ocn id"/>
+                <element inactive_on_update="false" label="A&amp;C部_プレサポ・ユーザーサポートプラン" sequence="24" value="a&amp;c部_プレサポ・ユーザーサポートプラン"/>
+                <element inactive_on_update="false" label="A&amp;C部_ひかりTV" sequence="25" value="a&amp;c部_ひかりtv"/>
+                <element inactive_on_update="false" label="A&amp;C部_マイポケ" sequence="26" value="a&amp;c部_マイポケ"/>
+                <element inactive_on_update="false" label="A&amp;C部_kakeibon・マイパスワード" sequence="27" value="a&amp;c部_kakeibon・マイパスワード"/>
+                <element inactive_on_update="false" label="A&amp;C部_ペイオン" sequence="28" value="a&amp;c部_ペイオン"/>
+                <element inactive_on_update="false" label="A&amp;C部_セキュリティソフト・マイセキュア・有害サイトブロック" sequence="29" value="a&amp;c部_セキュリティソフト・マイセキュア・有害サイトブロック"/>
+                <element inactive_on_update="false" label="V&amp;V部_050plus・音声SIM・OCNでんわ" sequence="30" value="v&amp;v部_050plus・音声sim・ocnでんわ"/>
+                <element inactive_on_update="false" label="V&amp;V部_OCNドットフォン・050あんしんナンバー・OCNひかり電話" sequence="31" value="v&amp;v部_ocnドットフォン・050あんしんナンバー・ocnひかり電話"/>
+                <element inactive_on_update="false" label="テスト用エスカレーション先" sequence="32" value="テスト用エスカレーション先"/>
+            </choice>
+        </element>
+        <element label="Comment" max_length="2400" name="comment" type="string"/>
         <element label="Content" max_length="40" name="content" type="string"/>
         <element label="CorrespondingDueDate1" max_length="40" name="correspondingduedate1" type="string"/>
         <element label="CorrespondingDueDate2" max_length="40" name="correspondingduedate2" type="string"/>
@@ -22,17 +135,92 @@
         <element label="CorrespondingStatus2" max_length="40" name="correspondingstatus2" type="string"/>
         <element label="CorrespondingStatus3" max_length="40" name="correspondingstatus3" type="string"/>
         <element label="CustomerNo" max_length="40" name="customerno" type="string"/>
-        <element label="CustomerPostDate" max_length="40" name="customerpostdate" type="string"/>
-        <element label="OrderDate" max_length="40" name="orderdate" type="string"/>
-        <element label="PostContent" max_length="40" name="postcontent" type="string"/>
-        <element label="PostKbn" max_length="40" name="postkbn" type="string"/>
+        <element label="お客様投稿日" max_length="40" name="customerpostdate" type="glide_date"/>
+        <element label="即時送信" max_length="40" name="immediatesending" type="boolean"/>
+        <element label="依頼日" max_length="40" name="orderdate" type="glide_date"/>
+        <element label="PostContent" max_length="3600" name="postcontent" type="string"/>
+        <element choice="1" label="PostKbn" max_length="40" name="postkbn" type="string">
+            <choice>
+                <element inactive_on_update="false" label="意見・要望" sequence="0" value="意見・要望"/>
+                <element inactive_on_update="false" label="質問" sequence="1" value="質問"/>
+                <element inactive_on_update="false" label="苦情" sequence="2" value="苦情"/>
+                <element inactive_on_update="false" label="賞賛" sequence="3" value="賞賛"/>
+                <element inactive_on_update="false" label="その他" sequence="4" value="その他"/>
+            </choice>
+        </element>
         <element label="PostSummary" max_length="40" name="postsummary" type="string"/>
-        <element label="ProcessUnnecessaryFlag" max_length="40" name="processunnecessaryflag" type="string"/>
+        <element choice="1" label="ProcessUnnecessaryFlag" max_length="40" name="processunnecessaryflag" type="string">
+            <choice>
+                <element inactive_on_update="false" label="不要" sequence="0" value="不要"/>
+                <element inactive_on_update="false" label="必要" sequence="1" value="必要"/>
+            </choice>
+        </element>
         <element label="ReqFromDept" max_length="40" name="reqfromdept" type="string"/>
-        <element label="ReqFromSuperiorApprovalFlag" max_length="40" name="reqfromsuperiorapprovalflag" type="string"/>
-        <element label="ReqToSuperiorApprovalFlag" max_length="40" name="reqtosuperiorapprovalflag" type="string"/>
-        <element label="Service" max_length="40" name="service" type="string"/>
-        <element label="ServiceCategory" max_length="40" name="servicecategory" type="string"/>
+        <element choice="1" label="ReqFromSuperiorApprovalFlag" max_length="40" name="reqfromsuperiorapprovalflag" type="string">
+            <choice>
+                <element inactive_on_update="false" label="必要" sequence="0" value="必要"/>
+                <element inactive_on_update="false" label="不要" sequence="1" value="不要"/>
+            </choice>
+        </element>
+        <element choice="1" label="ReqToSuperiorApprovalFlag" max_length="40" name="reqtosuperiorapprovalflag" type="string">
+            <choice>
+                <element inactive_on_update="false" label="必要" sequence="0" value="必要"/>
+                <element inactive_on_update="false" label="不要" sequence="1" value="不要"/>
+            </choice>
+        </element>
+        <element choice="1" label="Service" max_length="40" name="service" type="string">
+            <choice>
+                <element inactive_on_update="false" label="速度不満|光回線サービス" sequence="0" value="速度不満|光回線サービス"/>
+                <element inactive_on_update="false" label="速度不満|モバイルONE" sequence="1" value="速度不満|モバイルone"/>
+                <element inactive_on_update="false" label="サポート|テクニカルセンタ" sequence="2" value="サポート|テクニカルセンタ"/>
+                <element inactive_on_update="false" label="サポート|506506" sequence="3" value="サポート|506506"/>
+                <element inactive_on_update="false" label="サポート|SO・コンサル" sequence="4" value="サポート|so・コンサル"/>
+                <element inactive_on_update="false" label="サポート|ABUSE" sequence="5" value="サポート|abuse"/>
+                <element inactive_on_update="false" label="サポート|その他センタ" sequence="6" value="サポート|その他センタ"/>
+                <element inactive_on_update="false" label="プラン|withフレッツ" sequence="7" value="プラン|withフレッツ"/>
+                <element inactive_on_update="false" label="プラン|OCN光" sequence="8" value="プラン|ocn光"/>
+                <element inactive_on_update="false" label="プラン|モバイルONE" sequence="9" value="プラン|モバイルone"/>
+                <element inactive_on_update="false" label="プラン|音声SIM" sequence="10" value="プラン|音声sim"/>
+                <element inactive_on_update="false" label="プラン|キャンペーン" sequence="11" value="プラン|キャンペーン"/>
+                <element inactive_on_update="false" label="プラン|その他" sequence="12" value="プラン|その他"/>
+                <element inactive_on_update="false" label="サービス|OCNメール" sequence="13" value="サービス|ocnメール"/>
+                <element inactive_on_update="false" label="サービス|ウィルスチェック/迷惑メールブロック" sequence="14" value="サービス|ウィルスチェック/迷惑メールブロック"/>
+                <element inactive_on_update="false" label="サービス|マイポケット" sequence="15" value="サービス|マイポケット"/>
+                <element inactive_on_update="false" label="サービス|ドットフォン/あんしんナンバー/OCNひかり電話" sequence="16" value="サービス|ドットフォン/あんしんナンバー/ocnひかり電話"/>
+                <element inactive_on_update="false" label="サービス|訪問ポイント(gooポイント)" sequence="17" value="サービス|訪問ポイント(gooポイント)"/>
+                <element inactive_on_update="false" label="サービス|ひかりTV" sequence="18" value="サービス|ひかりtv"/>
+                <element inactive_on_update="false" label="サービス|050plus・OCNでんわ" sequence="19" value="サービス|050plus・ocnでんわ"/>
+                <element inactive_on_update="false" label="サービス|ログイン・認証関連" sequence="20" value="サービス|ログイン・認証関連"/>
+                <element inactive_on_update="false" label="サービス|プレミアムサポート" sequence="21" value="サービス|プレミアムサポート"/>
+                <element inactive_on_update="false" label="サービス|その他" sequence="22" value="サービス|その他"/>
+                <element inactive_on_update="false" label="WEB|マイページ" sequence="23" value="web|マイページ"/>
+                <element inactive_on_update="false" label="WEB|OCNトップ" sequence="24" value="web|ocnトップ"/>
+                <element inactive_on_update="false" label="WEB|サポートサイト" sequence="25" value="web|サポートサイト"/>
+                <element inactive_on_update="false" label="WEB|オフィシャルサイト" sequence="26" value="web|オフィシャルサイト"/>
+                <element inactive_on_update="false" label="WEB|その他" sequence="27" value="web|その他"/>
+                <element inactive_on_update="false" label="勧奨/勧誘|アウトテレマ" sequence="28" value="勧奨/勧誘|アウトテレマ"/>
+                <element inactive_on_update="false" label="勧奨/勧誘|代理店" sequence="29" value="勧奨/勧誘|代理店"/>
+                <element inactive_on_update="false" label="勧奨/勧誘|その他(他社含む)" sequence="30" value="勧奨/勧誘|その他(他社含む)"/>
+                <element inactive_on_update="false" label="手続き|加入" sequence="31" value="手続き|加入"/>
+                <element inactive_on_update="false" label="手続き|変更" sequence="32" value="手続き|変更"/>
+                <element inactive_on_update="false" label="手続き|解約" sequence="33" value="手続き|解約"/>
+                <element inactive_on_update="false" label="手続き|その他" sequence="34" value="手続き|その他"/>
+                <element inactive_on_update="false" label="請求|料金" sequence="35" value="請求|料金"/>
+                <element inactive_on_update="false" label="請求|その他" sequence="36" value="請求|その他"/>
+                <element inactive_on_update="false" label="情報提供|メルマガ" sequence="37" value="情報提供|メルマガ"/>
+                <element inactive_on_update="false" label="情報提供|その他" sequence="38" value="情報提供|その他"/>
+                <element inactive_on_update="false" label="その他|故障関連" sequence="39" value="その他|故障関連"/>
+                <element inactive_on_update="false" label="その他|内容不明" sequence="40" value="その他|内容不明"/>
+                <element inactive_on_update="false" label="その他|回答後返信" sequence="41" value="その他|回答後返信"/>
+                <element inactive_on_update="false" label="その他|その他" sequence="42" value="その他|その他"/>
+            </choice>
+        </element>
+        <element choice="1" label="ServiceCategory" max_length="40" name="servicecategory" type="string">
+            <choice>
+                <element inactive_on_update="false" label="お客さまの声" sequence="0" value="お客さまの声"/>
+                <element inactive_on_update="false" label="お客さま要望／センタ要望" sequence="1" value="お客さま要望／センタ要望"/>
+            </choice>
+        </element>
         <element label="ServiceDetail" max_length="40" name="servicedetail" type="string"/>
     </element>
 </database>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="servicedetail" label="サービス名詳細" language="ja" table="x_358273_cm_mscreenitemzzz">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>servicedetail</element>
+            <help/>
+            <hint/>
+            <label>サービス名詳細</label>
+            <language>ja</language>
+            <name>x_358273_cm_mscreenitemzzz</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-13 06:57:12</sys_created_on>
+            <sys_id>42207445dbc2330012075385ca96195e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>サービス名詳細</sys_name>
+            <sys_package display_value="CTMS" source="x_358273_cm">a89762dadb31330078c0d6aa48961974</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CTMS">a89762dadb31330078c0d6aa48961974</sys_scope>
+            <sys_update_name>sys_documentation_x_358273_cm_mscreenitemzzz_servicedetail_ja</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-13 06:57:12</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

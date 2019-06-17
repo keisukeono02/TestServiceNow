@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="businesstype" table="x_358273_cm_ticketissue" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>businesstype</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>OCN</label>
+            <language>en</language>
+            <name>x_358273_cm_ticketissue</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-17 05:06:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f31db81adb82330012075385ca961949</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-17 05:06:16</sys_updated_on>
+            <value>ocn</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>businesstype</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>OCN以外</label>
+            <language>en</language>
+            <name>x_358273_cm_ticketissue</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-17 05:06:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>371db81adb82330012075385ca96194a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-17 05:06:16</sys_updated_on>
+            <value>ocn以外</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>businesstype</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>なし</label>
+            <language>en</language>
+            <name>x_358273_cm_ticketissue</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-17 05:06:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b31db81adb82330012075385ca96194b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-17 05:06:16</sys_updated_on>
+            <value>なし</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>businesstype</element>
+            <name>x_358273_cm_ticketissue</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-17 05:06:16</sys_created_on>
+            <sys_id>3f1db81adb82330012075385ca961949</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>businesstype</sys_name>
+            <sys_package display_value="CTMS" source="x_358273_cm">a89762dadb31330078c0d6aa48961974</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CTMS">a89762dadb31330078c0d6aa48961974</sys_scope>
+            <sys_update_name>sys_choice_x_358273_cm_ticketissue_businesstype</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-17 05:06:16</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="TicketIssue" max_length="40" name="x_358273_cm_ticketissue" type="collection">
+        <element choice="3" default="ocn" label="BusinessType" mandatory="true" max_length="40" name="businesstype" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="OCN" sequence="0" value="ocn"/>
+                <element inactive_on_update="false" label="OCN以外" sequence="1" value="ocn以外"/>
+                <element inactive_on_update="false" label="なし" sequence="2" value="なし"/>
+            </choice>
+        </element>
+        <element label="Title" max_length="40" name="title" type="string"/>
+    </element>
+</database>

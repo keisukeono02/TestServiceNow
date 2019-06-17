@@ -1,0 +1,647 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="answerreqtodept1" table="x_358273_cm_mscreenitemzzz" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>answerreqtodept1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>不要</label>
+            <language>en</language>
+            <name>x_358273_cm_mscreenitemzzz</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-14 09:07:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>65779a5ddb42330012075385ca9619d0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-14 09:07:01</sys_updated_on>
+            <value>不要</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>answerreqtodept1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CS部_SOP部門_お客さまの声</label>
+            <language>en</language>
+            <name>x_358273_cm_mscreenitemzzz</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-14 09:07:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>29779a5ddb42330012075385ca9619d1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-14 09:07:01</sys_updated_on>
+            <value>cs部_sop部門_お客さまの声</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>answerreqtodept1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CS部_SOP部門_OCNテクニカル</label>
+            <language>en</language>
+            <name>x_358273_cm_mscreenitemzzz</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-14 09:07:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>29779a5ddb42330012075385ca9619d2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-14 09:07:01</sys_updated_on>
+            <value>cs部_sop部門_ocnテクニカル</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>answerreqtodept1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CS部_SOP部門_SO</label>
+            <language>en</language>
+            <name>x_358273_cm_mscreenitemzzz</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-14 09:07:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>29779a5ddb42330012075385ca9619d3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-14 09:07:01</sys_updated_on>
+            <value>cs部_sop部門_so</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>answerreqtodept1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CS部_SOP部門_Abuse</label>
+            <language>en</language>
+            <name>x_358273_cm_mscreenitemzzz</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-14 09:07:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>29779a5ddb42330012075385ca9619d4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-14 09:07:01</sys_updated_on>
+            <value>cs部_sop部門_abuse</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>answerreqtodept1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CS部_イノベーション部門</label>
+            <language>en</language>
+            <name>x_358273_cm_mscreenitemzzz</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-14 09:07:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>29779a5ddb42330012075385ca9619d5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-14 09:07:01</sys_updated_on>
+            <value>cs部_イノベーション部門</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>answerreqtodept1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>NS部_ONS部門_フレッツ系・IPv6・HOTSPOT</label>
+            <language>en</language>
+            <name>x_358273_cm_mscreenitemzzz</name>
+            <sequence>6</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-14 09:07:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>29779a5ddb42330012075385ca9619d6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-14 09:07:01</sys_updated_on>
+            <value>ns部_ons部門_フレッツ系・ipv6・hotspot</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>answerreqtodept1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>NS部_ONS部門_モバイルアプリ・モバイル</label>
+            <language>en</language>
+            <name>x_358273_cm_mscreenitemzzz</name>
+            <sequence>7</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-14 09:07:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>29779a5ddb42330012075385ca9619d7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-14 09:07:01</sys_updated_on>
+            <value>ns部_ons部門_モバイルアプリ・モバイル</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>answerreqtodept1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>NS部_ONS部門_料金</label>
+            <language>en</language>
+            <name>x_358273_cm_mscreenitemzzz</name>
+            <sequence>8</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-14 09:07:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>29779a5ddb42330012075385ca9619d8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-14 09:07:01</sys_updated_on>
+            <value>ns部_ons部門_料金</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>answerreqtodept1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>NS部_販推部門_トップページ</label>
+            <language>en</language>
+            <name>x_358273_cm_mscreenitemzzz</name>
+            <sequence>9</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-14 09:07:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>29779a5ddb42330012075385ca9619d9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-14 09:07:01</sys_updated_on>
+            <value>ns部_販推部門_トップページ</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>answerreqtodept1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>NS部_販推部門_マイページ</label>
+            <language>en</language>
+            <name>x_358273_cm_mscreenitemzzz</name>
+            <sequence>10</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-14 09:07:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>29779a5ddb42330012075385ca9619da</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-14 09:07:01</sys_updated_on>
+            <value>ns部_販推部門_マイページ</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>answerreqtodept1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>NS部_販推部門_ポイントーク</label>
+            <language>en</language>
+            <name>x_358273_cm_mscreenitemzzz</name>
+            <sequence>11</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-14 09:09:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>77e7de5ddb42330012075385ca9619ad</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-14 09:09:05</sys_updated_on>
+            <value>ns部_販推部門_ポイントーク</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>answerreqtodept1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>NS部_販推部門_メルマガ</label>
+            <language>en</language>
+            <name>x_358273_cm_mscreenitemzzz</name>
+            <sequence>12</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-14 09:09:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>77e7de5ddb42330012075385ca9619ae</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-14 09:09:05</sys_updated_on>
+            <value>ns部_販推部門_メルマガ</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>answerreqtodept1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>NS部_販推部門_プロモーション</label>
+            <language>en</language>
+            <name>x_358273_cm_mscreenitemzzz</name>
+            <sequence>13</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-14 09:09:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>77e7de5ddb42330012075385ca9619af</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-14 09:09:05</sys_updated_on>
+            <value>ns部_販推部門_プロモーション</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>answerreqtodept1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>NS部_販推部門_モバイル・ツール全般</label>
+            <language>en</language>
+            <name>x_358273_cm_mscreenitemzzz</name>
+            <sequence>14</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-14 09:09:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>77e7de5ddb42330012075385ca9619b0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-14 09:09:05</sys_updated_on>
+            <value>ns部_販推部門_モバイル・ツール全般</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>answerreqtodept1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>NS部_販推部門_販売・フレッツ光</label>
+            <language>en</language>
+            <name>x_358273_cm_mscreenitemzzz</name>
+            <sequence>15</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-14 09:09:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>77e7de5ddb42330012075385ca9619b1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-14 09:09:05</sys_updated_on>
+            <value>ns部_販推部門_販売・フレッツ光</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>answerreqtodept1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>NS部_販推部門_販売・OCN光</label>
+            <language>en</language>
+            <name>x_358273_cm_mscreenitemzzz</name>
+            <sequence>16</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-14 09:09:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>77e7de5ddb42330012075385ca9619b2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-14 09:09:05</sys_updated_on>
+            <value>ns部_販推部門_販売・ocn光</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>answerreqtodept1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>一営_DM部門_506506</label>
+            <language>en</language>
+            <name>x_358273_cm_mscreenitemzzz</name>
+            <sequence>17</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-14 09:09:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>77e7de5ddb42330012075385ca9619b3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-14 09:09:05</sys_updated_on>
+            <value>一営_dm部門_506506</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>answerreqtodept1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>一営_DM部門_アウトバウンド</label>
+            <language>en</language>
+            <name>x_358273_cm_mscreenitemzzz</name>
+            <sequence>18</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-14 09:09:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>77e7de5ddb42330012075385ca9619b4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-14 09:09:05</sys_updated_on>
+            <value>一営_dm部門_アウトバウンド</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>answerreqtodept1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>一営_DM部門_第一グループ</label>
+            <language>en</language>
+            <name>x_358273_cm_mscreenitemzzz</name>
+            <sequence>19</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-14 09:09:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>77e7de5ddb42330012075385ca9619b5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-14 09:09:05</sys_updated_on>
+            <value>一営_dm部門_第一グループ</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>answerreqtodept1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>一営_BS部門_第一サービス担当(フロント)</label>
+            <language>en</language>
+            <name>x_358273_cm_mscreenitemzzz</name>
+            <sequence>20</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-14 09:09:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>77e7de5ddb42330012075385ca9619b6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-14 09:09:05</sys_updated_on>
+            <value>一営_bs部門_第一サービス担当(フロント)</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>answerreqtodept1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>五営_営推部門_代理店</label>
+            <language>en</language>
+            <name>x_358273_cm_mscreenitemzzz</name>
+            <sequence>21</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-14 09:09:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>77e7de5ddb42330012075385ca9619b7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-14 09:09:05</sys_updated_on>
+            <value>五営_営推部門_代理店</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>answerreqtodept1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>A&amp;C部_OCNメール・ドリームネット・ウィルスチェック</label>
+            <language>en</language>
+            <name>x_358273_cm_mscreenitemzzz</name>
+            <sequence>22</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-14 09:09:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>77e7de5ddb42330012075385ca9619b8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-14 09:09:05</sys_updated_on>
+            <value>a&amp;c部_ocnメール・ドリームネット・ウィルスチェック</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>answerreqtodept1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>A&amp;C部_OCN ID</label>
+            <language>en</language>
+            <name>x_358273_cm_mscreenitemzzz</name>
+            <sequence>23</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-14 09:09:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>77e7de5ddb42330012075385ca9619b9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-14 09:09:05</sys_updated_on>
+            <value>a&amp;c部_ocn id</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>answerreqtodept1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>A&amp;C部_プレサポ・ユーザーサポートプラン</label>
+            <language>en</language>
+            <name>x_358273_cm_mscreenitemzzz</name>
+            <sequence>24</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-14 09:09:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>77e7de5ddb42330012075385ca9619ba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-14 09:09:05</sys_updated_on>
+            <value>a&amp;c部_プレサポ・ユーザーサポートプラン</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>answerreqtodept1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>A&amp;C部_ひかりTV</label>
+            <language>en</language>
+            <name>x_358273_cm_mscreenitemzzz</name>
+            <sequence>25</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-14 09:09:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>77e7de5ddb42330012075385ca9619bb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-14 09:09:05</sys_updated_on>
+            <value>a&amp;c部_ひかりtv</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>answerreqtodept1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>A&amp;C部_マイポケ</label>
+            <language>en</language>
+            <name>x_358273_cm_mscreenitemzzz</name>
+            <sequence>26</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-14 09:09:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>77e7de5ddb42330012075385ca9619bc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-14 09:09:06</sys_updated_on>
+            <value>a&amp;c部_マイポケ</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>answerreqtodept1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>A&amp;C部_kakeibon・マイパスワード</label>
+            <language>en</language>
+            <name>x_358273_cm_mscreenitemzzz</name>
+            <sequence>27</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-14 09:09:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>77e7de5ddb42330012075385ca9619bd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-14 09:09:06</sys_updated_on>
+            <value>a&amp;c部_kakeibon・マイパスワード</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>answerreqtodept1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>A&amp;C部_ペイオン</label>
+            <language>en</language>
+            <name>x_358273_cm_mscreenitemzzz</name>
+            <sequence>28</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-14 09:09:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>77e7de5ddb42330012075385ca9619be</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-14 09:09:06</sys_updated_on>
+            <value>a&amp;c部_ペイオン</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>answerreqtodept1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>A&amp;C部_セキュリティソフト・マイセキュア・有害サイトブロック</label>
+            <language>en</language>
+            <name>x_358273_cm_mscreenitemzzz</name>
+            <sequence>29</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-14 09:09:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>77e7de5ddb42330012075385ca9619bf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-14 09:09:06</sys_updated_on>
+            <value>a&amp;c部_セキュリティソフト・マイセキュア・有害サイトブロック</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>answerreqtodept1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>V&amp;V部_050plus・音声SIM・OCNでんわ</label>
+            <language>en</language>
+            <name>x_358273_cm_mscreenitemzzz</name>
+            <sequence>30</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-14 09:09:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>77e7de5ddb42330012075385ca9619c0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-14 09:09:06</sys_updated_on>
+            <value>v&amp;v部_050plus・音声sim・ocnでんわ</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>answerreqtodept1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>V&amp;V部_OCNドットフォン・050あんしんナンバー・OCNひかり電話</label>
+            <language>en</language>
+            <name>x_358273_cm_mscreenitemzzz</name>
+            <sequence>31</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-14 09:09:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>77e7de5ddb42330012075385ca9619c1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-14 09:09:06</sys_updated_on>
+            <value>v&amp;v部_ocnドットフォン・050あんしんナンバー・ocnひかり電話</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>answerreqtodept1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>テスト用エスカレーション先</label>
+            <language>en</language>
+            <name>x_358273_cm_mscreenitemzzz</name>
+            <sequence>32</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-14 09:09:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>77e7de5ddb42330012075385ca9619c2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-14 09:09:06</sys_updated_on>
+            <value>テスト用エスカレーション先</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>answerreqtodept1</element>
+            <name>x_358273_cm_mscreenitemzzz</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-14 09:07:01</sys_created_on>
+            <sys_id>ad779a5ddb42330012075385ca9619d0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>answerreqtodept1</sys_name>
+            <sys_package display_value="CTMS" source="x_358273_cm">a89762dadb31330078c0d6aa48961974</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CTMS">a89762dadb31330078c0d6aa48961974</sys_scope>
+            <sys_update_name>sys_choice_x_358273_cm_mscreenitemzzz_answerreqtodept1</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-14 09:07:01</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

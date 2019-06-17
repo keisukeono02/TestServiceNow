@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="a03c20c1dbc2330012075385ca96197b" sys_domain="global" table="x_358273_cm_mscreenitemzzz" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-17 01:40:03</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>17ed885edb02330012075385ca961929</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_358273_cm_mscreenitemzzz" name="x_358273_cm_mscreenitemzzz" sys_domain="global" view="Default view">a03c20c1dbc2330012075385ca96197b</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_358273_cm_mscreenitemzzz" sys_domain="global" view="Default view">d3ed885edb02330012075385ca961925</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-17 01:40:03</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-13 06:39:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>283c20c1dbc2330012075385ca96197d</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_358273_cm_mscreenitemzzz" name="x_358273_cm_mscreenitemzzz" sys_domain="global" view="Default view">a03c20c1dbc2330012075385ca96197b</sys_ui_form>
+            <sys_ui_section caption="◇投稿内容◇" display_value="◇投稿内容◇" name="x_358273_cm_mscreenitemzzz" sys_domain="global" view="Default view">683c20c1dbc2330012075385ca961978</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-17 01:40:03</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-13 06:39:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>243c20c1dbc2330012075385ca96197e</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_358273_cm_mscreenitemzzz" name="x_358273_cm_mscreenitemzzz" sys_domain="global" view="Default view">a03c20c1dbc2330012075385ca96197b</sys_ui_form>
+            <sys_ui_section caption="◇対応依頼書◇" display_value="◇対応依頼書◇" name="x_358273_cm_mscreenitemzzz" sys_domain="global" view="Default view">a03c20c1dbc2330012075385ca961979</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-17 01:40:03</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-13 06:39:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>643c20c1dbc2330012075385ca9619c0</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_358273_cm_mscreenitemzzz" name="x_358273_cm_mscreenitemzzz" sys_domain="global" view="Default view">a03c20c1dbc2330012075385ca96197b</sys_ui_form>
+            <sys_ui_section caption="◇投稿情報◇" display_value="◇投稿情報◇" name="x_358273_cm_mscreenitemzzz" sys_domain="global" view="Default view">e83c20c1dbc2330012075385ca961979</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-17 01:40:03</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-13 06:39:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6c3c20c1dbc2330012075385ca9619c3</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_358273_cm_mscreenitemzzz" name="x_358273_cm_mscreenitemzzz" sys_domain="global" view="Default view">a03c20c1dbc2330012075385ca96197b</sys_ui_form>
+            <sys_ui_section caption="◇回答者記入欄◇" display_value="◇回答者記入欄◇" name="x_358273_cm_mscreenitemzzz" sys_domain="global" view="Default view">243c20c1dbc2330012075385ca96197a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-17 01:40:03</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_358273_cm_mscreenitemzzz</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-13 06:39:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a03c20c1dbc2330012075385ca96197b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_358273_cm_mscreenitemzzz</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="CTMS" source="x_358273_cm">a89762dadb31330078c0d6aa48961974</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CTMS">a89762dadb31330078c0d6aa48961974</sys_scope>
+            <sys_update_name>sys_ui_form_sections_a03c20c1dbc2330012075385ca96197b</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-13 06:39:54</sys_updated_on>
+            <sys_user/>
+            <view display_value="デフォルトビュー" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

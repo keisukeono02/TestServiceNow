@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="contactdetail" label="問い合わせ内容" language="ja" table="x_358273_cm_mscreenitemzzz">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>contactdetail</element>
+            <help/>
+            <hint/>
+            <label>問い合わせ内容</label>
+            <language>ja</language>
+            <name>x_358273_cm_mscreenitemzzz</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-13 06:44:05</sys_created_on>
+            <sys_id>b52da8c1dbc2330012075385ca961946</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>問い合わせ内容</sys_name>
+            <sys_package display_value="CTMS" source="x_358273_cm">a89762dadb31330078c0d6aa48961974</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CTMS">a89762dadb31330078c0d6aa48961974</sys_scope>
+            <sys_update_name>sys_documentation_x_358273_cm_mscreenitemzzz_contactdetail_ja</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-13 06:44:05</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
